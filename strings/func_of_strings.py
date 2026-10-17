@@ -28,3 +28,7 @@ print(e.isupper())
 print(f.isspace())
 
 print(b.istitle())
+
+
+n = "Hello guys hello"
+print(n.rindex("hello"))
