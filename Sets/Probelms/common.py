@@ -9,3 +9,6 @@ z = set(c)
 inter = x.intersection(y,z)
 print(inter)
 print(list(inter))
+
+
+print(set(a) & set(b) & set(c))

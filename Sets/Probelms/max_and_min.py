@@ -4,9 +4,11 @@ x = sorted(a)
 print(x)
 
 #smallest
+print(min(a))
 print("Min",x[0])
 
 #largest
+print(max(x))
 print("Max",x[-1])
 
 
